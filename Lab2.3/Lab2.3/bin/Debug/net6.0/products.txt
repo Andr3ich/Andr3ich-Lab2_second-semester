@@ -1,0 +1,5 @@
+apple,fruit,1.50
+banana,fruit,0.99
+orange,fruit,2.25
+carrot,vegetable,0.50
+cucumber,vegetable,0.75
